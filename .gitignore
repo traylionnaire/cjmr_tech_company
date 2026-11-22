@@ -1,0 +1,4 @@
+.DS_Store
+# Original phone photos (large, contain location metadata)
+*.HEIC
+*.heic
